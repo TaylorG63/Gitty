@@ -1,2 +1,2 @@
-# My Giddy project
+# My Gitty project
 ## Taylor Gross
